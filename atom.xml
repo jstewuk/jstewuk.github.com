@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://jstewuk.github.com/atom.xml" rel="self"/>
   <link href="http://jstewuk.github.com/"/>
-  <updated>2013-01-18T23:02:36-06:00</updated>
+  <updated>2013-01-24T01:46:53-06:00</updated>
   <id>http://jstewuk.github.com/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -12,6 +12,73 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[title]]></title>
+    <link href="http://jstewuk.github.com/blog/2013/01/24/title/"/>
+    <updated>2013-01-24T01:43:00-06:00</updated>
+    <id>http://jstewuk.github.com/blog/2013/01/24/title</id>
+    <content type="html"><![CDATA[<p>This is overwhelming.  It’s like the rest of the world just disappeared.  I think I could get used to Scrivener, and it’s relatively cheap.</p>
+
+<p>Now just need to get things working with Github and develop an effective workflow.</p>
+
+<p>Roses are Red.  Violets are blue.</p>
+
+<p>Do_this_and_that</p>
+
+<figure class='code'><figcaption><span></span></figcaption><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+<span class='line-number'>3</span>
+</pre></td><td class='code'><pre><code class='ruby'><span class='line'><span class="nb">require</span> <span class="err">‘</span><span class="n">redcarpet</span><span class="err">’</span>
+</span><span class='line'><span class="n">markdown</span> <span class="o">=</span> <span class="no">Redcarpet</span><span class="o">.</span><span class="n">new</span><span class="p">(</span><span class="err">“</span><span class="no">Hello</span> <span class="no">World</span><span class="o">!</span><span class="err">”</span><span class="p">)</span>
+</span><span class='line'><span class="nb">puts</span> <span class="n">markdown</span><span class="o">.</span><span class="n">to_html</span>
+</span></code></pre></td></tr></table></div></figure>
+
+
+
+
+<script src="https://gist.github.com/4618168.js"></script>
+
+
+<p>So how do we create a link…</p>
+
+<h1>A First Level Header</h1>
+
+<h2>A Second Level Header</h2>
+
+<p>Now is the time for all good men to come to the aid of their country.<br/>
+This is just a regular paragraph.</p>
+
+<h3>Header 3</h3>
+
+<blockquote><p>This is a blockquote.</p>
+
+<p>This is the second paragraph in the block quote.</p>
+
+<p> ## This is an H2 in a block quote</p></blockquote>
+
+<h2>Lists</h2>
+
+<ul>
+<li>Candy</li>
+<li>Gum</li>
+<li><p>Booze</p></li>
+<li><p>Candy</p></li>
+<li>Gum</li>
+<li><p>Booze</p></li>
+<li><p>First</p></li>
+<li>Second</li>
+<li>Third</li>
+</ul>
+
+
+<p>This is an <a href="http://xample.com/">example link</a>.</p>
+
+<p>I get 10 times more traffick from <a href="http://google.com">Google</a> than from <a href="http://search.yahoo.com/">Yahoo</a> or <a href="http://search.msn.com/">MSN</a>.</p>
+
+<p><img src="https://ohqtpw.bay.livefilestore.com/y1mZlJWXRtkojt3Z2xPyusDYxjb_toJrSpqSyXnby1fgyvJkbaDRSuQGLs_rM1ojVyeTRoaCAv-ZxHyXxjmLHub9JaLy2OHdbuJmLIahD80JHiwOIkJyqxxdoMA_YYlvDwsNtna1iORuT8/www.google.com%25255B5%25255D.jpg&amp;w=500&amp;h=336&amp;ei=seAAUd35G4ri2QWqpoC4BA&amp;zoom=1" alt="alt text" /></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Some Title]]></title>
